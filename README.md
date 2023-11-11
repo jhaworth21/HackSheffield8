@@ -1,5 +1,7 @@
 # HackSheffield8 :computer: :chart_with_upwards_trend:
-We winning this (Optional)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br />
+We winning this (Optional) <br />
+We having fun (Mandatory)
 
 ![Understand load](https://github.com/jhaworth21/HackSheffield8/assets/33745451/754984e1-6da7-4ae3-b623-2adc9e9ff98d)
 
@@ -9,14 +11,52 @@ Challenge 2: Understand load
 To produce the best understanding of customer load using machine learning
 
 ## Code Usage and Execution :hash:
-_____________
+```markdown
+TestCode
+```
+
+## TicTacToe Game!
+In our spare time, we tried to be creative and made a Tictactoe game! Play against our AI and try to win!
+
+<kbd> <br> [Play TicTacToe](https://github.com/jhaworth21/HackSheffield8/tree/main/tictactoe) <br> </kbd>
+
+## Authors and Credits 
+### Artur Wiktorowicz
+<div id="badges">
+  <a href="https://www.linkedin.com/in/awiktorowicz/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+### Charuduth Bagha
+<div id="badges">
+  <a href="https://www.linkedin.com/in/bagha-charuduth/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+### Josh Haworth
+<div id="badges">
+  <a href="https://www.linkedin.com/in/josh-h-107b151b1/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+### Thomas Milburn
+<div id="badges">
+  <a href="https://www.linkedin.com/in/thomas-j-milburn/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 
 ## Useful Links :link:
 ### About HackSheffield8
-https://shefcompsoc.uk/hacksheffield-8/
+[HackSheffield's Website](https://shefcompsoc.uk/hacksheffield-8/)
+[CompSoc's Website](https://shefcompsoc.uk/hacksheffield-8/)
 
 ### Link to the folders/data :file_folder:
-https://drive.google.com/drive/u/2/folders/14GUJKrTulMzB_53_S_S8jzN7VGNvV4ba
+[Organiser's Drive](https://drive.google.com/drive/u/2/folders/14GUJKrTulMzB_53_S_S8jzN7VGNvV4ba)
 
 ### Reading Materials Provided:
 https://www.sciencedirect.com/science/article/abs/pii/S2213138820313485
