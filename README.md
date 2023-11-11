@@ -1,22 +1,24 @@
-# HackSheffield8
-#We winning this (Optional)
+# HackSheffield8 :computer: :chart_with_upwards_trend:
+We winning this (Optional)
 
-![Imagetest](https://drive.google.com/file/d/1fh5S3qFKzVCnxdhMK-1YGnvFjqLYKvBg/view?usp=sharing)
-Challenge Chosen: Challenge 2
-Description:To produce the best understanding of customer load using machine learning
+![Understand load](https://github.com/jhaworth21/HackSheffield8/assets/33745451/754984e1-6da7-4ae3-b623-2adc9e9ff98d)
 
-Code Usage and Execution: _____________
+## Challenge Chosen
+Challenge 2: Understand load
+## Description
+To produce the best understanding of customer load using machine learning
 
+## Code Usage and Execution :hash:
+_____________
 
-
-##Useful Links
-#About HackSheffield8
+## Useful Links :link:
+### About HackSheffield8
 https://shefcompsoc.uk/hacksheffield-8/
 
-#Link to the folders/data
+### Link to the folders/data :file_folder:
 https://drive.google.com/drive/u/2/folders/14GUJKrTulMzB_53_S_S8jzN7VGNvV4ba
 
-#Reading Materials Provided:
+### Reading Materials Provided:
 https://www.sciencedirect.com/science/article/abs/pii/S2213138820313485
 https://dspace.mit.edu/handle/1721.1/117983
 https://www.sciencedirect.com/science/article/abs/pii/S0378779622010471
