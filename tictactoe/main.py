@@ -68,6 +68,18 @@ class Grid:
                 self.grid[i][j] = Move.X
                 return
 
+    def friendly_hash(self):
+        friendly = ""
+        for row in self.grid:
+            for value in row:
+                if value == Move.X:
+                    friendly += "X"
+                elif value == Move.O:
+                    friendly += "O"
+                else:
+                    friendly += "E"
+        return friendly
+
     def populate_possible_grids(self):
         if self.is_winning_grid(Move.X) or self.is_winning_grid(Move.O):
             return
@@ -122,7 +134,7 @@ class Grid:
                 elif value == Move.O:
                     output += "O"
                 else:
-                    output += " "
+                    output += "E"
             output += "\n"
         return output
 
