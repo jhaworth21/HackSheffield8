@@ -1,5 +1,6 @@
 # HackSheffield8 :computer: :chart_with_upwards_trend:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) <br/>
 We winning this (Optional) <br />
 We having fun (Mandatory)
 
@@ -12,7 +13,7 @@ To produce the best understanding of customer load using machine learning
 
 ## Code Usage and Execution :hash:
 ```markdown
-TestCode
+We use Jupyter Notebook for this Task. Make sure to run all of the code to ensure that it is pulled, formatted and plotted properly. 
 ```
 
 ## TicTacToe Game!
