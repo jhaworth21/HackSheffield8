@@ -15,6 +15,8 @@ To produce the best understanding of customer load using machine learning
 ```markdown
 We use Jupyter Notebook for this Task. Make sure to run all of the code to ensure that it is pulled, formatted and plotted properly. 
 ```
+## Presentation Slides!
+https://www.canva.com/design/DAFz9GHwP48/kj1EMxvPxp5D7mAcqV4PbQ/edit?utm_content=DAFz9GHwP48&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## TicTacToe Game!
 In our spare time, we tried to be creative and made a Tictactoe game! Play against our AI and try to win!
